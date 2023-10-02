@@ -4,5 +4,6 @@ tmp/
 *.Thumbs.db
 *.DS_Store
 index.html_old
-*.png_backup
+NeuroStartUp.png_backup
+
 
